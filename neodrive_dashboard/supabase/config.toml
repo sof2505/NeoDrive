@@ -1,0 +1,4 @@
+project_id = "joygfllbirqqktadooxf"
+
+[functions.mqtt-bridge]
+verify_jwt = false
